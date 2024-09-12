@@ -24,7 +24,6 @@ VALUES
 ('12345678918', 'Aline Santos', '61111100000', 'aline.santos@email.com', '1996-07-16', 'Feminino', '87000000', 'PE', 'Olinda', 'Casa Caiada', 'Rua R', 'Ed. Primavera', 5, 'Viúva', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_2.png')),
 ('12345678919', 'Thiago Lopes', '61999977777', 'thiago.lopes@email.com', '1992-04-30', 'Masculino', '88000000', 'PE', 'Caruaru', 'Centro', 'Rua S', 'Loja 12', 65, 'Solteiro', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_1.png')),
 ('12345678920', 'Mariana Gomes', '61888866666', 'mariana.gomes@email.com', '1994-02-27', 'Feminino', '89000000', 'CE', 'Fortaleza', 'Meireles', 'Rua T', 'Casa 17', 20, 'Casada', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_2.png')),
-
 ('12345678921', 'Santa Monica', '61222211111', 'santa.m@email.com', '1980-12-05', 'Masculino', '86000000', 'PE', 'Recife', 'Boa Viagem', 'Rua Q', 'Apto 1503', 55, 'Casado', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_1.png')),
 ('12345678922', 'Marquim do Pneu', '61111100000', 'marquim.dpneu@email.com', '1996-07-16', 'Feminino', '87000000', 'PE', 'Olinda', 'Casa Caiada', 'Rua R', 'Ed. Primavera', 5, 'Viúva', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_2.png')),
 ('12345678923', 'Porco Shaolin', '61999977777', 'porco.shaolin@email.com', '1992-04-30', 'Masculino', '88000000', 'PE', 'Caruaru', 'Centro', 'Rua S', 'Loja 12', 65, 'Solteiro', LOAD_FILE('D:/ProgramData/MySQL/MySQL Server 8.0/Uploads/senhor_1.png')),
@@ -114,12 +113,10 @@ VALUES
 ('12345678922', 1, 1, '2024-07-01', 'Ampla concorrência'),
 ('12345678923', 1, 1, '2024-07-01', 'Deficientes físicos'),
 ('12345678924', 1, 1, '2024-07-01', 'Negros'),
-
 ('12345678902', 2, 2, '2024-08-05', 'Negros'),
 ('12345678903', 2, 2, '2024-09-12', 'Ampla concorrência'),
 ('12345678904', 2, 2, '2024-07-15', 'Deficientes físicos'),
 ('12345678905', 2, 2, '2024-07-20', 'Ampla concorrência'),
-
 ('12345678903', 3, 3, '2024-09-12', 'Ampla concorrência'),
 ('12345678904', 4, 4, '2024-07-15', 'Deficientes físicos'),
 ('12345678905', 5, 5, '2024-07-20', 'Ampla concorrência'),
@@ -260,12 +257,10 @@ VALUES
 (1, '12345678918', 18, 18, '2023-12-01', 73, 4, '2025-09-09'),
 (1, '12345678919', 19, 19, '2023-11-25', 91, 1, '2025-09-09'),
 (1, '12345678920', 20, 20, '2023-11-05', 66, 6, '2025-09-09'),
-
 (1, '12345678921', 1, 1, '2024-07-01', 72, 2, '2025-09-09'),
 (1, '12345678922', 1, 1, '2024-07-01', 65, 3, '2025-09-09'),
 (1, '12345678923', 1, 1, '2024-07-01', 32, 1, '2025-09-09'),
 (1, '12345678924', 1, 1, '2024-07-01', 21, 1, '2025-09-09'),
-
 (1, '12345678903', 2, 2, '2024-09-12', 65, 3, '2025-09-09'),
 (1, '12345678904', 2, 2, '2024-07-15', 32, 1, '2025-09-09'),
 (1, '12345678905', 2, 2, '2024-07-20', 21, 1, '2025-09-09');
@@ -333,4 +328,3 @@ VALUES
 ('20202020202', '98765412300177', '88000000', 19),
 ('11111111111', '98765412300177', '88000000', 19),
 ('16161616161', '98765412300177', '88000000', 19);
-
