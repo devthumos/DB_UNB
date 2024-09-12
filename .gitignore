@@ -1,0 +1,6 @@
+main.py
+.env
+db/proceadures/__pycache__/
+db/config/__pycache__/
+app/__pycache__/
+__pycache__/
